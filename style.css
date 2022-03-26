@@ -1,0 +1,16 @@
+h1 {
+    font-size: 200px;
+}
+
+h3 {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    border-radius: 30px;
+}
+
+body {
+    background-image: url("https://www.rd.com/wp-content/uploads/2021/03/GettyImages-1133605325-scaled-e1617227898456.jpg");
+}
